@@ -2,7 +2,7 @@
 terraform {
   required_providers {
     eon = {
-      source  = "eyesofnetwork/eon"
+      source  = "ktoulliou/eon"
       version = "0.1.0"
     }
   }

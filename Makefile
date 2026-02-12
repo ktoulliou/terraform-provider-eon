@@ -1,6 +1,6 @@
 BINARY=terraform-provider-eon
 OS_ARCH=$(shell go env GOOS)_$(shell go env GOARCH)
-PLUGIN_DIR=~/.terraform.d/plugins/registry.terraform.io/eyesofnetwork/eon/0.1.0/$(OS_ARCH)
+PLUGIN_DIR=~/.terraform.d/plugins/registry.terraform.io/ktoulliou/eon/0.1.0/$(OS_ARCH)
 
 .PHONY: build install clean
 

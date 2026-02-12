@@ -4,7 +4,7 @@ import (
 	"context"
 	"os"
 
-	"github.com/eyesofnetwork/terraform-provider-eon/internal/client"
+	"github.com/ktoulliou/terraform-provider-eon/internal/client"
 	"github.com/hashicorp/terraform-plugin-framework/datasource"
 	"github.com/hashicorp/terraform-plugin-framework/provider"
 	"github.com/hashicorp/terraform-plugin-framework/provider/schema"

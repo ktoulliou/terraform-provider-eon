@@ -1,4 +1,4 @@
-module github.com/eyesofnetwork/terraform-provider-eon
+module github.com/ktoulliou/terraform-provider-eon
 
 go 1.21
 
